@@ -1,4 +1,4 @@
-setwd("Documents/Kaggle/Voda/Simulation_Games/")
+
 
 #Reference https://rpubs.com/lmullen/nlp-chapter
 library(rJava)
