@@ -1,6 +1,6 @@
 
 
-#Reference https://rpubs.com/lmullen/nlp-chapter
+
 library(rJava)
 install.packages(c("NLP", "openNLP", "RWeka", "qdap"))
 library(NLP)
